@@ -11,7 +11,6 @@ FaceForensics++_C23/
 data/
 content/
 paper/
-
 # Trained models
 *.pth
 *.pt
