@@ -9,6 +9,8 @@ venv/
 # Dataset
 FaceForensics++_C23/
 data/
+content/
+paper/
 
 # Trained models
 *.pth
